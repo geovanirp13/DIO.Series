@@ -1,0 +1,16 @@
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Projetos\DIO\BootcampTakeBlipe\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
